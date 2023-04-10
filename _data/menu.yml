@@ -5,15 +5,15 @@ entries:
   - title: 简介
     entries:
       - title: 再普通不过了。
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
+      - title: 知乎主页
+        url: https://www.zhihu.com/people/sisalinger
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
   - title: all posts
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: 更多阅读
       show_more_url: archive.html
 
   - title: posts by category
