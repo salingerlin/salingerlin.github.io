@@ -15,7 +15,7 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: 更多阅读
+      show_more_text: 归档文章
       show_more_url: archive.html
 
   - title: posts by category
