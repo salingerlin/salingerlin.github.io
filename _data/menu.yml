@@ -11,7 +11,7 @@ entries:
 #        url: https://www.zhihu.com/people/sisalinger
 #这是添加多个链接的方式      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: 近期发表
     post_list:
       limit: 5
       show_more: true
