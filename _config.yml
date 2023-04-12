@@ -4,8 +4,8 @@ email: nassace@gmail.com # email of site's author
 url: https://salingerlin.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  &emsp; 再普通不过了。<br>
-  &emsp; 你也可以在这些地方找到我：<a href='https://www.zhihu.com/people/sisalinger'>知乎</a>、<a href='https://www.douban.com/people/nassace/?_i=1111874Nv5E76h'>豆瓣</a>以及<a href='https://weibo.com/nassace'>微博</a>。
+  &emsp;“再普通不过了。”<br>
+  &emsp;这里是林艾舒写字的地方，你也可以在这些地方找到他：<a href='https://www.zhihu.com/people/sisalinger'>知乎</a>、<a href='https://www.douban.com/people/nassace/?_i=1111874Nv5E76h'>豆瓣</a>以及<a href='https://weibo.com/nassace'>微博</a>。
   
 
 permalink: /:slug.html
