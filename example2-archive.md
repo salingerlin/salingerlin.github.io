@@ -1,5 +1,5 @@
 ---
 layout: archive
-which_category: example2
-title: All posts of category 'example2'
+which_category: 特稿
+title: 采访特稿
 ---
