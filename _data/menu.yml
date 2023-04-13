@@ -23,8 +23,16 @@ entries:
       limit: 5
       category: 特稿
       show_more: true
-      show_more_text: ...更多归档文章
+      show_more_text: ...更多采访特稿
       show_more_url: example2-archive.html
+      
+  - title: 访谈与自述
+    post_list:
+      limit: 5
+      category: 特稿
+      show_more: true
+      show_more_text: ...更多访谈与自述
+      show_more_url: interview-archive.html
 
 #  - title: rss
 #    url: feed.xml
