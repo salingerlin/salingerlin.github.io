@@ -1,4 +1,4 @@
-<ul>
+<p>
   {%-for item in include.collection-%}
 <h3>
     {%- if item.url -%}
@@ -24,4 +24,4 @@
       {%-include menu_item.html collection=item.entries-%}
     {%-endif-%}
   {%-endfor-%}
-</ul>
+</p>
