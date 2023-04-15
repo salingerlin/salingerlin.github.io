@@ -13,14 +13,14 @@ entries:
 
   - title: 近期发表
     post_list:
-      limit: 5
+      limit: 4
       show_more: true
       show_more_text: ...更多归档文章
       show_more_url: archive.html
 
   - title: 采访特稿
     post_list:
-      limit: 5
+      limit: 4
       category: 特稿
       show_more: true
       show_more_text: ...更多采访特稿
@@ -28,11 +28,19 @@ entries:
       
   - title: 访谈与自述
     post_list:
-      limit: 5
+      limit: 4
       category: 访谈与自述
       show_more: true
       show_more_text: ...更多访谈与自述
       show_more_url: interview-archive.html
+      
+  - title: 随笔
+    post_list:
+      limit: 4
+      category: 随笔
+      show_more: true
+      show_more_text: ...更多随笔
+      show_more_url: essay-archive.html
 
 #  - title: rss
 #    url: feed.xml
