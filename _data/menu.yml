@@ -42,7 +42,7 @@ entries:
 #      - title: with subitems
 
 #     entries:
-  - title: 关于林艾舒
-    url: about
+#  - title: 关于林艾舒
+#    url: about
 
 #   to edit this menu, edit _data/menu.yml file
