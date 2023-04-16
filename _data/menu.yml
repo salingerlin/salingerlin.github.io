@@ -41,6 +41,14 @@ entries:
       show_more: true
       show_more_text: ...更多随笔
       show_more_url: essay-archive.html
+      
+  - title: 流行音乐史评述
+    post_list:
+      limit: 4
+      category: 流行音乐史评述
+      show_more: true
+      show_more_text: ...更多评述
+      show_more_url: history-archive.html
 
 #  - title: rss
 #    url: feed.xml
