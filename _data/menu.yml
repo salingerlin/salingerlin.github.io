@@ -15,7 +15,7 @@ entries:
     post_list:
       limit: 4
       show_more: true
-      show_more_text: ...更多归档文章
+      show_more_text: ...所有归档文章
       show_more_url: archive.html
 
   - title: 采访特稿
