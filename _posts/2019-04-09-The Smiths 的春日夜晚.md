@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Smiths 的春日夜晚
-category: 特稿
+category: 随笔
 ---
 
 # The Smiths 的春日夜晚
