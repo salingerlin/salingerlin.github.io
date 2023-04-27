@@ -60,7 +60,7 @@ NME 杂志在文章中提到这件事的时候，看到经纪人以及乐队其�
 
 伊恩 · 柯蒂斯在 "New Dawn Fades" 中写道：
 
-“ A load gun won't set you free.<br>
+“ A load gun won't set you free. <br>
 一支上膛的枪，并不会使你解脱。 ”
 
 所以呢，伊恩，那一条悬挂在厨房里的绳索，让你解脱了吗？
