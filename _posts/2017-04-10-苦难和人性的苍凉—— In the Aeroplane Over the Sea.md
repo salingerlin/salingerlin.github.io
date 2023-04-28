@@ -6,7 +6,7 @@ category: 乐评
  
 # 苦难和人性的苍凉
 
-<p align="right"><b>—— In the Aeroplane Over the Sea</b><p>
+<p align="right"><b>—— In the Aeroplane Over the Sea</b></p>
 
 在互联网时代之前的独立音乐中，不乏这样的乐队：留下一两张叫好不叫座的专辑，然后不温不火的解散了。日后他们的作品凭借极佳的口碑，逐渐发酵，最终成为无数乐迷心中的杰作。这就像是某种佳酿，窖藏的时日尚久才会如此醇香。Neutral Milk Hotel 便是这样的一支乐队，其最后一张专辑<i> In the Aeroplane Over the Sea </i>（后文简称<i>  Aeroplane</i> ）在他们解散后，成为许多乐迷心中最经典的一张 lo-fi 唱片。
 
