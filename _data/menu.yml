@@ -24,7 +24,7 @@ entries:
       category: 特稿
       show_more: true
       show_more_text: ...更多采访特稿
-      show_more_url: example2-archive.html
+      show_more_url: report-archive.html
       
   - title: 访谈与自述
     post_list:
