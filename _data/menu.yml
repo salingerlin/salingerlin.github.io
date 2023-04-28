@@ -49,6 +49,14 @@ entries:
       show_more: true
       show_more_text: ...更多评述
       show_more_url: history-archive.html
+      
+  - title: 乐评
+    post_list:
+      limit: 4
+      category: 乐评
+      show_more: true
+      show_more_text: ...更多乐评
+      show_more_url: review-archive.html
 
 #  - title: rss
 #    url: feed.xml
