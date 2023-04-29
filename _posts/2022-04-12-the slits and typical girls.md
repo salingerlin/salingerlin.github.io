@@ -24,6 +24,8 @@ category: 随笔
 
 这在当时引发了强烈反响（以负面居多），例如当乐队贝斯手 Tessa Pollitt 把专辑推荐给<i> Sounds </i>和<i> Melody Maker </i>工作的媒体朋友时，对方说编辑们都觉得“她们太胖太丑，不愿意让这样封面登上文章”。更令人哭笑不得的是，有位男司机试图起诉唱片公司，宣称他开车的时候因为看到广告牌上的这张照片而导致了车祸[^1]。“我们希望展示的是，女性可以在规定的穿着方式以外展现自己的性感。以自然的方式表达性感，赤裸却不色情。”乐队主唱 Ari Up 这般说到。
 
+[^1]: Girls Unconditional: The story of The Slits, told exclusively by The Slits, Loud And Quiet.
+
 由上可以见得，“反叛”是 The Slits 的突出标签之一，当然，这与她们活跃的朋克场景有密切关系。乐队的发端是出生于西班牙的鼓手 Palmolive，她当时正和 The Clash 主唱 Joe Strummer 谈恋爱。在组建自己的乐队之前，她曾短暂地加入过 Sid Vicious 的乐队 The Flowers of Romance，却被后者开除。于是 Palmolive 决定组建一支只有女孩的乐队，并着手物色人选。
 
 1976 年 5 月 16 日，Patti Smith 巡演至伦敦，当时音乐场景里的各色人物均来到现场观看，Palmolive 也在。台下观众里有一对母女，14 岁的 Ariane Forster 和她母亲 Nora Forster，前者还没有把自己的名字改为听起来更朋克的 Ari Up，而后者将在三年后嫁给 Sex Pistols 的主唱 John Lydon。母女俩正不知为何而吵架，被 Palmolive 远远看见，后者觉着那个小女孩的气场不错，适合担任主唱，于是向她发出邀请。没几天，她们便开始在家里排练。后加入的贝斯手 Tessa Pollit 在乐队第一场演出前，只学过两星期贝斯。
@@ -31,6 +33,8 @@ category: 随笔
 The Flowers of Romance 的吉他手 Viv Albertine 看完 The Slits 的第一场演出觉得很好，又恰巧 Sid Vicious 离开乐队加入 Sex Pistols，于是她满心希望能加入 The Slits。更巧的，她当时的男友是 The Clash 的吉他手 Mick Jones，在后者和 Joe Strummer 的撺掇下，The Slits 决定让 Viv 替换 Kate Korus。噢，可怜的 Kate。不过，从我们后世乐迷的角度看，这对 The Slits 或许是件好事，乐队的不少作品均是 Viv 的创作，包括前文提到的 "Typical Girls"。哦，关于这首歌还有个影响，由 Mick Jones 创作的 The Clash 的作品 "Train in Vain" 常被认为是对 "Typical Girls" 的回应。
 
 上世纪五十年代，英国迎来西印度（加勒比）移民潮。据英国社会地理学家 Ceri Peach 的估计，居住在英国的出生于西印度群岛的人群从 1951 年的 15000 激增至 1961 年的 17 万[^2]。随着移民到来的还有加勒比地区的音乐。七十年代的伦敦，时不时便会有人举办 dub party。起初在这样的聚会上几乎见不到白人的身影，Ari Up 是个例外。
+
+[^2]: British African-Caribbean people, Wikipedia.
 
 出生于德国大户人家的 Ari Up，从小浸润在音乐氛围中。在和母亲搬到伦敦后，她开始格外喜欢雷鬼，经常混迹于各种加勒比音乐现场（后来还定居于牙买加）。原本英语就不怎么好的她（Ari Up 在德国出生，从小以德语为母语），口音变得格外奇特，有巴伐利亚和伦敦口音，以及牙买加方言。她还是当时唯一一位扎脏辫的白人女性。因此，受她的影响，The Slits 在创建之初，雷鬼便成为乐队的重要音乐元素。
 
@@ -40,11 +44,10 @@ The Flowers of Romance 的吉他手 Viv Albertine 看完 The Slits 的第一场�
 
 托朋克运动的福，The Slits 所在的厂牌 Island 给予乐队充分的创作自由，并为她们找来经验丰富的雷鬼制作人 Dennis Bovell。后者也是 The Pop Group 的经典专辑<i> Y </i>的制作人。估计是知道乐队成员基本功不扎实，厂牌主动延长了乐队的录音时间，给了她们整整十周的棚时，让她们好好地在棚里鼓捣了一阵[^3]。因此，尽管最终的成果听起来似乎松松垮垮，却形散神不散。这种特别的、破破烂烂的、不服输的劲儿，这不就是雷鬼和朋克的融合气质嘛。
 
+[^3]: How we made Cut (the Slits), The Guardian.
+
 和许多朋克时期的乐队相似，The Slits 也是凭借一股激情组建而来，当冲劲散去，便失去继续前进的理由，于是在发行完第二张专辑<i> Return of the Giant Slits </i>之后的 1982 年，乐队宣布了解散。
 
 更多阅读：<br>
-[^1]: Girls Unconditional: The story of The Slits, told exclusively by The Slits, Loud And Quiet.
-[^2]: British African-Caribbean people, Wikipedia.
-[^3]: How we made Cut (the Slits), The Guardian.
 
 <p align="right">——— 2022 年于北京亚运村</p>
