@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 南方的歌
-category: 随笔
+category: 流行音乐史评述
 ---
 
 # 南方的歌
