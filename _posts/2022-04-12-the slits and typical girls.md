@@ -48,6 +48,4 @@ The Flowers of Romance 的吉他手 Viv Albertine 看完 The Slits 的第一场�
 
 和许多朋克时期的乐队相似，The Slits 也是凭借一股激情组建而来，当冲劲散去，便失去继续前进的理由，于是在发行完第二张专辑<i> Return of the Giant Slits </i>之后的 1982 年，乐队宣布了解散。
 
-更多阅读：<br>
-
 <p align="right">——— 2022 年于北京亚运村</p>
