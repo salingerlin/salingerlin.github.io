@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Smiths 的春日夜晚
+title: McCarthy：以最甜腻的曲，唱最刻薄的词
 category: 随笔
 ---
 
