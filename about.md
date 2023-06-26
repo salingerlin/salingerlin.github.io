@@ -25,3 +25,5 @@ title: 关于林艾舒
 **参与发行过的唱片：**
 
 海青 《乌飞兔走昼还夜》, Shii 《绵延》, 合辑 《聚会的前夜》, Zeming Xu 《言外之意》, Hoo! 《Hoo!》, Late Troubles 《Language Barrier》, West By West 《西偏西》, 合辑 《房间里的潜水员》, GUAN 《Drone A》, 合辑 《风吹走的城市》, Broken Thoughts 《Hearing Ghosts》, P. Murk 《You Really Should Come to the House》, 合辑 《烟火的期许》, DBZ 与彭喜悦 《students》, 中法创作合辑 《乐色斑斓》, B6 《向着明丽那方》, 合辑 《猫登天空》, DBZ 《侘寂罗曼史》, 歪理思 《多维风景》。
+
+<i>（以上介绍仍需更新）</i>
