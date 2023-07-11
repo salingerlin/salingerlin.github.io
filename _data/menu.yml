@@ -58,6 +58,14 @@ entries:
       show_more_text: ...更多乐评
       show_more_url: review-archive.html
 
+  - title: 译作
+    post_list:
+      limit: 4
+      category: 译作
+      show_more: true
+      show_more_text: ...更多译作
+      show_more_url: translate-archive.html
+
 #  - title: rss
 #    url: feed.xml
   
