@@ -26,7 +26,7 @@ Television 最具标志性的声音是两把吉他的交织，宛如深蓝夜空
 
 不过扯远了，这篇文章是 Television 的创始成员、吉他手 Richard Lloyd 的口述回忆录。Lloyd 从亲历者的角度讲述了一些 Television 不为人知的细节，包括他对主唱、吉他手 Tom Verlaine 的犀利吐槽。我很喜欢他的描述里关于纽约生活的那一小部分，尤其当你知道（或者幻想过）那时的纽约像是乌托邦一样的场景。
 
-因此，我希望将这篇文章译介给各位。当然，也推荐大家点击 “<a href="https://pitchfork.com/reviews/albums/19860-sleater-kinney-start-together/">阅读原文</a>”，跳转阅读英文原文。
+因此，我希望将这篇文章译介给各位。当然，也推荐大家点击 “<a href="https://www.uncut.co.uk/features/the-story-of-television-by-richard-lloyd-71368/">阅读原文</a>”，跳转阅读英文原文。
 
 <p align="right">—— 林艾舒</p>
 
