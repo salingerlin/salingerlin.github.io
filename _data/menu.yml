@@ -14,7 +14,7 @@ entries:
   - title: 近期发表
     post_list:
       limit: 5
-      show_more: true
+      show_more: false
       show_more_text: ...所有归档文章
       show_more_url: archive.html
 
@@ -66,13 +66,13 @@ entries:
       show_more_text: ...更多译作
       show_more_url: translate-archive.html
 
-# - title: 独立音乐周报
-#   post_list:
-#     limit: 4
-#     category: 周报
-#     show_more: true
-#     show_more_text: ...更多周报
-#     show_more_url: weekly-archive.html
+ - title: 独立音乐周报
+   post_list:
+     limit: 4
+     category: 周报
+     show_more: true
+     show_more_text: ...更多周报
+     show_more_url: weekly-archive.html
 
 #  - title: rss
 #    url: feed.xml
