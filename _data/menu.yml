@@ -14,7 +14,7 @@ entries:
   - title: 近期发表
     post_list:
       limit: 5
-      show_more: false
+      show_more: true
       show_more_text: ...所有归档文章
       show_more_url: archive.html
 
