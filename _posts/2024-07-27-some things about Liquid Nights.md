@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 流动的夜晚：一场失败的 DIY 演出实践
+title: 一场失败的 DIY 演出实践
 category: 访谈与自述
 ---
 
