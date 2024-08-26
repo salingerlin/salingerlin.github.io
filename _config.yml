@@ -5,7 +5,7 @@ url: https://salingerlin.github.io/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   <p align="right"><b>“再普通不过了。”</b></p>
-  <p><i>这是林艾舒写字存档的地方，你也可以在别处找到他：<a href="https://www.zhihu.com/people/sisalinger">知乎</a>、<a href="https://www.douban.com/people/nassace/?_i=1111874Nv5E76h">豆瓣</a>、<a href="https://weibo.com/nassace">微博</a>以及《普通乐迷》与《進化耳朵》微信公众号。目前的建议是用电脑网页浏览、阅读。</i></p>
+  <p><i>这是林艾舒写字存档的地方，你也可以在别处找到他：<a href='https://www.instagram.com/linaishu2023/'>Instagram</a>、<a href="https://www.douban.com/people/nassace/?_i=1111874Nv5E76h">豆瓣</a>、<a href="https://www.zhihu.com/people/sisalinger">知乎</a>以及《普通乐迷》与《進化耳朵》微信公众号。目前的建议是用电脑网页浏览、阅读。</i></p>
   <p><i>最后，谁是<a href="about">林艾舒</a>？</i></p>
 
 permalink: /:slug.html
